@@ -1,51 +1,52 @@
-<h1 align="center">Olá! Eu sou a Bia</h1>
+<h1 align="center">Olá! Eu sou a Bia 👋</h1>
 
 <p align="center">
-Estudante de ADS | Desenvolvimento de Software
+Estudante de Análise e Desenvolvimento de Sistemas | Foco em Desenvolvimento Web
 </p>
+
+---
 
 ## Sobre mim
 
-- 🎮 Interesse em tecnologia, desenvolvimento de software e criação digital  
-- 💻 Base em **HTML, CSS e JavaScript**  
-- 📚 Atualmente estudando **Node.js**, backend e APIs   
+- Estudante de ADS (início de graduação)
+- Desenvolvendo projetos com **React, JavaScript e integração com APIs**
+- Experiência prática com **SQL/MySQL e Supabase**
+- Versionamento com **Git e GitHub**
+- Estudando **Node.js, TypeScript e backend**
+
+Sou disciplinada, gosto de entender como as coisas funcionam por baixo dos panos e estou sempre evoluindo através de projetos práticos.
 
 ---
 
-## Linguagens e Tecnologias
+## Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,ts,mysql,git" />
 </p>
 
 ---
 
-## Ferramentas
+## Atualmente estudando
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,ps,ai,figma" />
-</p>
+- Estrutura e arquitetura de aplicações web
+- Boas práticas de código
+- Integração frontend ↔ backend
+- Conceitos de APIs REST
 
 ---
 
 ## Objetivo profissional
 
-Busco uma **oportunidade de estágio** para aprender com a equipe, ganhar experiência prática e evoluir como desenvolvedora.
+- Contribuir com projetos
+- Aprender com desenvolvedores experientes
+- Evoluir tecnicamente no ecossistema web
 
 ---
-
-## Contato
-
-- Portfólio (em breve)  
-- Instagram (em breve)  
-- Twitter/X (em breve)  
-
----
-
-Obrigada pela visita!
+<p align="center">
+  Obrigada pela visita 💛
+</p>
 
 </div>
 <p align="center">
   <img width="128" height="128" alt="mewo-omori" src="https://github.com/user-attachments/assets/1d882c28-3188-4334-8100-a6a86b26d416" />
 </p>
-
