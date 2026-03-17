@@ -8,13 +8,13 @@ Estudante de Análise e Desenvolvimento de Sistemas | Foco em Desenvolvimento We
 
 ## Sobre mim
 
-- Estudante de ADS (início de graduação)
+- Estudante de ADS 
 - Desenvolvendo projetos com **React, JavaScript e integração com APIs**
 - Experiência prática com **SQL/MySQL e Supabase**
 - Versionamento com **Git e GitHub**
 - Estudando **Node.js, TypeScript e backend**
 
-Sou disciplinada, gosto de entender como as coisas funcionam por baixo dos panos e estou sempre evoluindo através de projetos práticos.
+Sou disciplinada, gosto de entender como as coisas funcionam por baixo dos panos e procuro estar sempre evoluindo através de projetos práticos.
 
 ---
 
