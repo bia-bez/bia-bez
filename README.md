@@ -1,69 +1,77 @@
-<h1 align="center">Olá! Eu sou a Bia 👋</h1>
+<h1 align="center">Olá! Eu sou a Bia </h1>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas • Foco em Desenvolvimento Web
+  Desenvolvedora Front-end • React • TypeScript • Sistemas Web
 </p>
 
 <p align="center">
-  Apaixonada por interfaces bem construídas, organização de código e projetos práticos que conectam frontend, backend e experiência do usuário.
+  Construo interfaces, organizo fluxos e desenvolvo soluções web com foco em clareza, usabilidade, manutenção e integração com dados reais.
 </p>
 
 ---
 
 ## Sobre mim
 
-Sou estudante de ADS e venho desenvolvendo projetos práticos com foco em aplicações web modernas.
+Atuo no desenvolvimento de aplicações web, principalmente em projetos internos voltados para organização de processos, consulta de informações, auditoria e melhoria da experiência do usuário.
 
-Tenho experiência principalmente com construção de interfaces, padronização visual, componentização, integração com APIs e organização de fluxo de desenvolvimento com Git/GitHub.
+Tenho experiência com construção de interfaces, componentização, padronização visual, responsividade, integração com APIs, consultas SQL e manutenção de fluxos em sistemas reais.
 
-Gosto de entender como as coisas funcionam por baixo dos panos, buscar soluções consistentes e evoluir tecnicamente através da prática.
 
 ---
 
 ## Tecnologias e ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,mysql,git,github,supabase,vercel" />
 </p>
 
-- **Frontend:** React, Next.js, JavaScript, TypeScript, CSS Modules, Tailwind CSS  
-- **Backend e dados:** Node.js, SQL/MySQL, Supabase, integração com APIs  
-- **Ferramentas:** Git, GitHub, organização de branches, versionamento e manutenção de código
+* **Frontend:** React, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS
+* **Backend e dados:** Node.js, SQL/MySQL, Supabase, integração com APIs
+* **UI e produto:** responsividade, dark mode, componentização, padronização visual e melhoria de experiência
+* **Ferramentas:** Git, GitHub, versionamento, branches, deploy e manutenção de código
 
 ---
 
 ## O que venho desenvolvendo
 
-- Interfaces web com foco em clareza visual, consistência e experiência do usuário
-- Melhorias de layout, responsividade e dark mode
-- Componentes reutilizáveis e padronização de estilos
-- Integração entre frontend e backend
-- Projetos práticos para consolidar arquitetura, boas práticas e manutenção de aplicações
+* Interfaces web para sistemas internos e aplicações administrativas
+* Telas responsivas com foco em clareza, hierarquia visual e usabilidade
+* Componentes reutilizáveis e padronização de estilos
+* Integração entre frontend, backend e banco de dados
+* Consultas SQL para análise, auditoria e suporte a regras de negócio
+* Melhorias em fluxos existentes, organização de código e manutenção de projetos reais
+* Deploy, versionamento e organização de branches com Git/GitHub
+
+---
+
+## Áreas de interesse
+
+* Desenvolvimento Front-end com React e TypeScript
+* Arquitetura de aplicações web
+* UI/UX aplicado a sistemas reais
+* Integração frontend ↔ backend
+* Banco de dados e SQL
+* Sistemas internos, dashboards, auditoria e segurança da informação
 
 ---
 
 ## Atualmente aprofundando
 
-- Arquitetura de aplicações web
-- TypeScript aplicado a projetos reais
-- Boas práticas de componentização e escalabilidade
-- Integração frontend ↔ backend
-- Estruturação de código para projetos maiores
+* TypeScript aplicado a projetos maiores
+* Boas práticas de componentização e escalabilidade
+* Organização de arquitetura front-end
+* Integração com APIs e estruturação de dados
+* Segurança, permissões e auditoria em aplicações web
 
 ---
 
-## Objetivo profissional
-
-- Contribuir com projetos
-- Aprender com desenvolvedores experientes
-- Evoluir tecnicamente no ecossistema web
-
----
 
 <p align="center">
-  Obrigada pela visita 💛
+  Obrigada pela visita!
 </p>
 
 <p align="center">
   <img width="128" height="128" alt="mewo-omori" src="https://github.com/user-attachments/assets/1d882c28-3188-4334-8100-a6a86b26d416" />
 </p>
+
+---
